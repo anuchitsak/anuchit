@@ -1,2 +1,1 @@
 # anuchit
-script robot
